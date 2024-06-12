@@ -1,0 +1,17 @@
+../CANlibrary/CAN_OSI.c:7:6:CAN_Receive_Error_Handle	24	static
+../CANlibrary/CAN_OSI.c:22:10:CAN_Send_Response	56	static
+../CANlibrary/CAN_OSI.c:39:6:CAN_Receive_Response	24	static
+../CANlibrary/CAN_OSI.c:49:6:CAN_Send_Error_Handle	88	static
+../CANlibrary/CAN_OSI.c:72:6:CAN_ProcessRxBuffer	40	static
+../CANlibrary/CAN_OSI.c:110:6:CAN_ProcessFrame	32	static
+../CANlibrary/CAN_OSI.c:124:9:CAN_Send_Application	24	static
+../CANlibrary/CAN_OSI.c:129:9:CAN_Send_Network_Packet	24	static
+../CANlibrary/CAN_OSI.c:146:9:CAN_Send_DataLink_Separate	40	static
+../CANlibrary/CAN_OSI.c:169:9:CAN_Send_Physical_Send	64	static
+../CANlibrary/CAN_OSI.c:204:6:CAN_Recieve_Physical_FIFO0	16	static
+../CANlibrary/CAN_OSI.c:213:9:CAN_Receive_DataLink	72	static
+../CANlibrary/CAN_OSI.c:249:9:CAN_Receive_Network	40	static
+../CANlibrary/CAN_OSI.c:291:9:CAN_Receive_Application	32	static
+../CANlibrary/CAN_OSI.c:303:10:CAN_Config_filtering	56	static
+../CANlibrary/CAN_OSI.c:319:9:compress_float_to_uint8	40	static
+../CANlibrary/CAN_OSI.c:330:6:float2Bytes	24	static

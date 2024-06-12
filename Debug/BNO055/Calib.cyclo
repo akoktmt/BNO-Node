@@ -1,0 +1,6 @@
+../BNO055/Calib.c:13:7:customModulo	3
+../BNO055/Calib.c:23:7:convertAngle	2
+../BNO055/Calib.c:34:6:Euler_Calibration	2
+../BNO055/Calib.c:53:6:Euler_getData	1
+../BNO055/Calib.c:61:6:ACC_Calibration	2
+../BNO055/Calib.c:80:6:ACC_getData	1

@@ -1,0 +1,6 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	1
+../BNOStatemachine/BNOStatemachine.c:33:6:BNO_GetData	1
+../BNOStatemachine/BNOStatemachine.c:39:6:BNO_CheckSignal	5
+../BNOStatemachine/BNOStatemachine.c:62:6:BNO_SendError	4
+../BNOStatemachine/BNOStatemachine.c:79:6:BNO_SendData	4
+../BNOStatemachine/BNOStatemachine.c:100:6:BNO_Recovery	5

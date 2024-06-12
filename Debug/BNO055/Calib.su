@@ -1,0 +1,6 @@
+../BNO055/Calib.c:13:7:customModulo	16	static
+../BNO055/Calib.c:23:7:convertAngle	24	static
+../BNO055/Calib.c:34:6:Euler_Calibration	40	static
+../BNO055/Calib.c:53:6:Euler_getData	24	static
+../BNO055/Calib.c:61:6:ACC_Calibration	40	static
+../BNO055/Calib.c:80:6:ACC_getData	24	static

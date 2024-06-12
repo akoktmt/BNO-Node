@@ -1,0 +1,6 @@
+../Drivers/CMSIS/Include/core_cm3.h:1762:34:__NVIC_SystemReset	4	static,ignoring_inline_asm
+../BNOStatemachine/BNOStatemachine.c:33:6:BNO_GetData	8	static
+../BNOStatemachine/BNOStatemachine.c:39:6:BNO_CheckSignal	8	static
+../BNOStatemachine/BNOStatemachine.c:62:6:BNO_SendError	8	static
+../BNOStatemachine/BNOStatemachine.c:79:6:BNO_SendData	8	static
+../BNOStatemachine/BNOStatemachine.c:100:6:BNO_Recovery	8	static
